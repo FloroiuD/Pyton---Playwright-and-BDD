@@ -13,7 +13,8 @@ playwright install
 pip install pytest-playwright
 pip install pytest-bdd
 ```
-Notes: Make sure you have installed the all extensions mentioned in SS. 
+_Notes_: Make sure you have installed the all extensions mentioned in SS. 
+![Screenshot from 2025-02-17 00-00-40](https://github.com/user-attachments/assets/1504645c-1e49-4910-9cd5-a166c83c2aa7)
 
 
 3. Set environment variables
